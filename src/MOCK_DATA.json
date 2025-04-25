@@ -1,0 +1,64 @@
+{
+  "MOCK_DATA": [
+    {
+      "id": 1,
+      "first_name": "Jeffy",
+      "last_name": "Meas",
+      "email": "jmeas0@tinyurl.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Libbey",
+      "last_name": "Andreazzi",
+      "email": "landreazzi1@google.co.uk"
+    },
+    {
+      "id": 3,
+      "first_name": "Brok",
+      "last_name": "Van Son",
+      "email": "bvanson2@bigcartel.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Alejandrina",
+      "last_name": "Esp",
+      "email": "aesp3@deviantart.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Melany",
+      "last_name": "Cauderlie",
+      "email": "mcauderlie4@wunderground.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Alleen",
+      "last_name": "Runnicles",
+      "email": "arunnicles5@diigo.com"
+    },
+    {
+      "id": 7,
+      "first_name": "Dara",
+      "last_name": "Ashbey",
+      "email": "dashbey6@prweb.com"
+    },
+    {
+      "id": 8,
+      "first_name": "Morissa",
+      "last_name": "Tolliday",
+      "email": "mtolliday7@psu.edu"
+    },
+    {
+      "id": 9,
+      "first_name": "Russell",
+      "last_name": "Mewis",
+      "email": "rmewis8@ovh.net"
+    },
+    {
+      "id": 10,
+      "first_name": "Ripley",
+      "last_name": "Naisbitt",
+      "email": "rnaisbitt9@myspace.com"
+    }
+  ]
+}
